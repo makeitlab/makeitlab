@@ -14,6 +14,7 @@
 4 июня, *Сергей*
 
 Привезли в Хакспейс паяльник ERSA RDS 80 и фен
+https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg
 
 
 27 мая, *Павел*
