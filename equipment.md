@@ -10,6 +10,9 @@
 
 **Слесарный инструмент**
 
+[https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_instruments.jpg]
+
+
 * Ящик для инструментов
 * молоток 400 гр
 * линейка нерж. сталь
@@ -52,7 +55,9 @@
 
 **Материалы**
 
-Клея
+https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_gsm.jpg
+
+Клея 
 
 * клей гель супер + праймер (цианоакрилат)
 * клей момент столяр (ПВА)

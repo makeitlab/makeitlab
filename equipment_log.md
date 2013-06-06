@@ -11,6 +11,23 @@
 * Внешнее оборудование доступное через участников
 * Пожелания по новому оборудованию
 
+5 июня, *Павел*
+
+Привезли в Хакспейс:
+
+инструменты:
+https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_instruments.jpg
+
+гсм:
+https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_gsm.jpg
+
+карандаши, маркеры:
+https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pencils.jpg
+
+общий вид рабочего стола:
+https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_worktable.jpg
+
+
 4 июня, *Сергей*
 
 Привезли в Хакспейс паяльник ERSA RDS 80 и фен
