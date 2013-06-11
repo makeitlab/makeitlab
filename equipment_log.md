@@ -14,6 +14,8 @@
 10 июня, *Олег* 
 
 Привезены 3 принтера лазерных б/у, работающие. Один LPT (можно для ЛУТ экспериментов). Второй с USB.
+https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_laser_printers_2hp.jpg
+(Так же спасибо IT'шникам)
 
 
 8 июня, *Илья* 
