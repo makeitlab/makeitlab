@@ -12,7 +12,7 @@
 * Пожелания по новому оборудованию
 
 
-21 июня, *Ольга Романова* 
+25 июня, *Ольга Романова* 
 
 От Ольги в нашем Хакспейсе появился удобный стол:
 https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_table.jpg
