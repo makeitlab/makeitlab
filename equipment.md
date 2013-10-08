@@ -13,26 +13,33 @@
 * Arduino Uno, 5шт (в октябре будут отданы в школу) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_uno.jpg)
 * Arduino Nano, v.3.0, 1шт (в пульте квадрокоптера, +1 на руках)
 * Arduino Shrimp - прошитые Atmega328p-pu, 1шт (+1 на руках)
+* Arduino XPort direct [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_xport.jpg)
+* Arduino XPort ethernet [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_eth.jpg)
 * USB-UART мост на cp2102, 3шт (+1 на руках)
-* USB-UART FT2232H, полностью разведенный
+* USB-UART FT2232H, полностью разведенный [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FT2232H.jpg)
 * Радиопередатчик на nRF24, 14шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_radio_nrf24.jpg)
 * Лазеры 5mW с линзами, в корпусе, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_laser_5mw.jpg)
 * Драйвер двигателей Pololu DRV8833 (10шт)(для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_drv8833.jpg)
 * RFID читалка rc522  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_rfid_rc522.jpg)
-* логический анализатор на 16 каналов
+* Логический анализатор, FPGA, 16 каналов [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FPGA_logic.jpg)
+* Светодиодная лента, белый [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_stripe.jpg)
+* Pinboard [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pinboard.jpg)
 
 **Индикация**
 * Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
 * Дисплей LCD 16x2, 10шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
 * Дисплей сегментный светодиодный, 5шт для курсов + 5шт свободных [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
 * Матрица светодиодная 8x8, оранжевая и красная [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_8x8.jpg)
+* Дисплей TFT 128x160, 1.8", SPI [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_TFT_SPI128x160.jpg)
 
 **Датчики**
-* Ультразвуковой дальномер hc-sr04, 10шт? (надо посчитать) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_usonic_hcsr04.jpg)
+* Дальномер ультразвуковой hc-sr04, 10шт? (надо посчитать) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_usonic_hcsr04.jpg)
 * Инфракрасный дальномер Sharp 10-150см, 4шт (не распаяны)
 * Акселерометр Pololu MMA7361L 3-Axis ±1.5/6g [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_acc.jpg)
 * Гироскоп LPR550AL XY ±500°/s, ±2000°/s [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_gyr.jpg)
 * Гироскоп+акселерометр+магнитометр+барометр (L3G4200D+ADXL345+HMC5883L+BMP085) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_IMU_DOF10.jpg)
+* Дальномер оптический Sharp 30cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_30cm.jpg)
+* Дальномер оптический Sharp 150cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_150cm.jpg)
 
 **Микросхемы**
 * USB-UART мост cp2102, 5шт
