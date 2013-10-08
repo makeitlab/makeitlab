@@ -6,9 +6,10 @@
 **Готовые устройства**
 * Raspberry PI, 7шт (+3 на руках) (для курсов)
 * Raspberry PI, 1шт (всегда доступен) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_raspberrypi.jpg)
-* TI Launchpad MSP430, 1шт (+1 на руках) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_MSP430_DB.jpg)
+* TI Launchpad MSP430, 1шт (+1 на руках) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_msp430_DB.jpg)
 * TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stellaris_DB.jpg)
-* FPGA Papilio One 500K [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_500_DB.jpg)
+* FPGA Papilio One 500K [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_one_500_DB.jpg)
+* STM32 F3 Discovery [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_STM32_F3.jpg)
 * Arduino Uno, 5шт (в октябре будут отданы в школу) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_uno.jpg)
 * Arduino Nano, v.3.0, 1шт (в пульте квадрокоптера, +1 на руках)
 * Arduino Shrimp - прошитые Atmega328p-pu, 1шт (+1 на руках)
@@ -38,7 +39,7 @@
 Оборудование в помещении
 -------------------------
 
-* 3д принтер Duplicator 3, двухголовочный (клон Duplicator Dual) (Семен) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_duplicator3_3DPrinter.jpg)
+* 3д принтер Duplicator 3, двухголовочный (клон Duplicator Dual) (Семен) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_duplicator3_3Dprinter.jpg)
 * 3д принтер PrintrBot (Семен)(на реконструкции)
 * Станок микрофрезерный с ЧПУ (MF70) (Олег) (укажите рабочее поле) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_MF70_CNC.jpg)
 * Паяльная станция ERSA RDS 80 (Сергей) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg)
