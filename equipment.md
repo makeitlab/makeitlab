@@ -4,42 +4,50 @@
 Электронные компоненты
 
 **Готовые устройства**
-* Raspberry PI, 7шт (+3 на руках) (могут отсутствовать во время проведения курсов)
-* Raspberry PI, 1шт (всегда доступен)
-* TI Launchpad MSP430, 1шт (+1 на руках)
-* TI Launchpad Stellaris LM4F120, 2шт
-* FPGA Papilio One 500K
-* Arduino Uno, 5шт (в октябре будут отданы в школу)
+* Raspberry PI, 7шт (+3 на руках) (для курсов)
+* Raspberry PI, 1шт (всегда доступен) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_raspberrypi.jpg)
+* TI Launchpad MSP430, 1шт (+1 на руках) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_MSP430_DB.jpg)
+* TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stellaris_DB.jpg)
+* FPGA Papilio One 500K [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_500_DB.jpg)
+* Arduino Uno, 5шт (в октябре будут отданы в школу) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_uno.jpg)
 * Arduino Nano, v.3.0, 1шт (в пульте квадрокоптера, +1 на руках)
 * Arduino Shrimp - прошитые Atmega328p-pu, 1шт (+1 на руках)
 * USB-UART мост на cp2102, 3шт (+1 на руках)
-* Радиопередатчик на nRF24, 14шт
-* Ультразвуковой дальномер hc-sr04, 10шт? (надо посчитать)
+* Радиопередатчик на nRF24, 14шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_radio_nrf24.jpg)
+* Ультразвуковой дальномер hc-sr04, 10шт? (надо посчитать) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_usonic_hcsr04.jpg)
 * Инфракрасный дальномер Sharp 10-150см, 4шт (не распаяны)
-* Лазеры 5mW с линзами, в корпусе, 10шт
+* Лазеры 5mW с линзами, в корпусе, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_laser_5mw.jpg)
+* Драйвер двигателей Pololu DRV8833 (10шт)(для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_drv8833.jpg)
+* Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
+* Дисплей LCD 16x2, 10шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
+* Дисплей сегментный светодиодный, 5шт для курсов + 5шт свободных [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
+* Матрица светодиодная 8x8, оранжевая и красная [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_8x8.jpg)
 
 **Микросхемы**
 * USB-UART мост cp2102, 5шт
 * Драйвер двигателей DRV8833, 5шт
 
 **Электромеханика**
-* DC двигатели из CD-ROM, кучка
+* DC двигатели из CD-ROM, кучка [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_motors.jpg)
 * Шаговые микродвигатели №1, кучка
 * Шаговые микродвигатели №2, кучка
 * Миниатюрные DC двигатели c редуктором, кучка
+* Миниатюрные шаговые дыигатели, кучка
+* Микроминиатюрный шаговые двигатели, кучка
 
 Оборудование в помещении
 -------------------------
 
-* 3д принтер Duplicator 3, двухголовочный (клон Duplicator Dual) (Семен)
+* 3д принтер Duplicator 3, двухголовочный (клон Duplicator Dual) (Семен) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_duplicator3_3DPrinter.jpg)
 * 3д принтер PrintrBot (Семен)(на реконструкции)
-* Станок микрофрезерный с ЧПУ (MF70) (Олег) (укажите рабочее поле)
-* Паяльная станция ERSA RDS 80 (Сергей) [https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg]
+* Станок микрофрезерный с ЧПУ (MF70) (Олег) (укажите рабочее поле) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_MF70_CNC.jpg)
+* Паяльная станция ERSA RDS 80 (Сергей) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg)
 * Паяльный фен
 * Паяльник с регулятором температуры 300-500
 * принтер ч/б лазерный (devianth)
 * Мультиметр, 2шт
 * Осциллограф, Hantec DSO-2150
+* Дремель [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_dremel.jpg)
 
 **Персональные компьютерыи и мониторы**
 * P4, 3Гб ОЗУ, со встроенным контроллером ЧПУ (занят под 3D-принтер)
