@@ -14,10 +14,12 @@
 * Arduino Nano, v.3.0, 1шт (в пульте квадрокоптера, +1 на руках)
 * Arduino Shrimp - прошитые Atmega328p-pu, 1шт (+1 на руках)
 * USB-UART мост на cp2102, 3шт (+1 на руках)
+* USB-UART FT2232H, полностью разведенный
 * Радиопередатчик на nRF24, 14шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_radio_nrf24.jpg)
 * Лазеры 5mW с линзами, в корпусе, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_laser_5mw.jpg)
 * Драйвер двигателей Pololu DRV8833 (10шт)(для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_drv8833.jpg)
 * RFID читалка rc522  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_rfid_rc522.jpg)
+* логический анализатор на 16 каналов
 
 ** Индикация **
 * Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
@@ -41,8 +43,12 @@
 * Шаговые микродвигатели №1, кучка
 * Шаговые микродвигатели №2, кучка
 * Миниатюрные DC двигатели c редуктором, кучка
-* Миниатюрные шаговые дыигатели, кучка
-* Микроминиатюрный шаговые двигатели, кучка
+* Шаговые двигатели NEMA23 с двумя валами, 2шт
+ 
+**Питание**
+* Блок питания 12 В 350 Вт
+* ATX, 3шт
+* Лабораторный БП из ATX, 12В, 5В, 3.3В
 
 Оборудование в помещении
 -------------------------
@@ -186,6 +192,11 @@ https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_gsm.jpg
 * бормашинка proxxon/dremel
 * сверлильный станок
 * электролобзик
+* PiFace - плата расширения для RPi
+* BeagleBone Black
+* A13-OLinuXino
+* WandBoard
+* Maple Mini
 
 
 Услуги участников
