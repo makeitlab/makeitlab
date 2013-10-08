@@ -21,7 +21,7 @@
 * RFID читалка rc522  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_rfid_rc522.jpg)
 * логический анализатор на 16 каналов
 
-** Индикация **
+**Индикация**
 * Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
 * Дисплей LCD 16x2, 10шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
 * Дисплей сегментный светодиодный, 5шт для курсов + 5шт свободных [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
@@ -70,7 +70,7 @@
 * Ноутбук Celeron
 * Сервера Xeon, P4, кучка (требуют внимания)
 * Монитор 14", 2шт
-* Монитор 14", 2шт (древние)
+* Монитор 14", 2шт (раритетные)
 
 **Слесарный инструмент**
 
