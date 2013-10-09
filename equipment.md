@@ -82,8 +82,7 @@
 
 **Слесарный инструмент**
 
-[https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_instruments.jpg]
-
+![Слесарный инструмент](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_instruments.jpg)
 
 * Ящик для инструментов
 * молоток 400 гр
@@ -127,7 +126,8 @@
 
 **Материалы**
 
-https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_gsm.jpg
+![Материалы](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_gsm.jpg)
+
 
 **Клей** 
 
