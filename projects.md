@@ -35,23 +35,20 @@
 
 Куратор: Олег Евсегнеев
 
-Колесный робот (RaspberryPi)
-============================
+**Колесный робот (RaspberryPi)**
 
 * http://robotclass.ru/?p=295
 
 * https://www.youtube.com/watch?v=Bg2mpChQFLk
 * https://www.youtube.com/watch?v=9mvxiFbXCKc
 
-Гусеничный робот (TI)
-=====================
+**Гусеничный робот (TI)**
 
 * https://sites.google.com/site/poprobotics/home/track-robot-msp430
 
 * https://www.youtube.com/watch?v=CEG5zxNvW1M
 
-Шагающий робот (Arduino)
-========================
+**Шагающий робот (Arduino)**
 
 * https://www.youtube.com/watch?v=nzGpPp6sTJo
 * https://www.youtube.com/watch?v=LpqWwsVtiPI
