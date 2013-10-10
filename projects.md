@@ -123,7 +123,12 @@ TPLink MR3040 + SD
 
 Создание 3д принтеров, 3д печать, формирование 3д моделей из фотографий
 
-* https://www.youtube.com/watch?v=gQZPC-NlS_s
+**Печатать шестерни на клоне "Replicator 2":**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=gQZPC-NlS_s" 
+target="_blank"><img src="http://img.youtube.com/vi/gQZPC-NlS_s/0.jpg" 
+alt="Печатать шестерни на клоне 'Replicator 2'" width="240" height="180" border="10" /></a>
+
 
 * http://www.flickr.com/photos/97915275@N02/9471567548/in/set-72157634292417738
 * http://www.flickr.com/photos/97915275@N02/9523412046/in/set-72157634292417738
