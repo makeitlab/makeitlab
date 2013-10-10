@@ -53,14 +53,28 @@ alt="Квадрокоптер КО1. Демпфер контроллера" widt
 
 * http://robotclass.ru/?p=295
 
-* https://www.youtube.com/watch?v=Bg2mpChQFLk
-* https://www.youtube.com/watch?v=9mvxiFbXCKc
+Мобильный робот на базе Raspberry Pi:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Bg2mpChQFLk" 
+target="_blank"><img src="http://img.youtube.com/vi/Bg2mpChQFLk/0.jpg" 
+alt="Мобильный робот на базе Raspberry Pi" width="240" height="180" border="10" /></a>
+
+Учебный робот-следопыт на основе Raspberry Pi:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9mvxiFbXCKc" 
+target="_blank"><img src="http://img.youtube.com/vi/9mvxiFbXCKc/0.jpg" 
+alt="Учебный робот-следопыт на основе Raspberry Pi" width="240" height="180" border="10" /></a>
 
 **Гусеничный робот (TI)**
 
 * https://sites.google.com/site/poprobotics/home/track-robot-msp430
 
-* https://www.youtube.com/watch?v=CEG5zxNvW1M
+Гусеничный робот на базе TI MSP430:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CEG5zxNvW1M" 
+target="_blank"><img src="http://img.youtube.com/vi/CEG5zxNvW1M/0.jpg" 
+alt="Гусеничный робот на базе TI MSP430" width="240" height="180" border="10" /></a>
+
 
 **Шагающий робот (Arduino)**
 
