@@ -107,8 +107,17 @@ TPLink MR3040 + SD
 
 Куратор: Степан
 
-* https://www.youtube.com/watch?v=HW7eyQIO2dw
-* https://www.youtube.com/watch?v=XDsylLlshGU
+**Испытания орнитоптера Mark I:**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HW7eyQIO2dw" 
+target="_blank"><img src="http://img.youtube.com/vi/HW7eyQIO2dw/0.jpg" 
+alt="Испытания орнитоптера Mark I" width="240" height="180" border="10" /></a>
+
+**Орнитоптер с видеокамерой на борту:**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XDsylLlshGU" 
+target="_blank"><img src="http://img.youtube.com/vi/XDsylLlshGU/0.jpg" 
+alt="Орнитоптер с видеокамерой на борту" width="240" height="180" border="10" /></a>
 
 * http://www.flickr.com/photos/97915275@N02/9937551624/in/set-72157634292417738
 * http://www.flickr.com/photos/97915275@N02/10117351735/in/set-72157634292417738
