@@ -20,9 +20,23 @@
 
 * http://www.poprobot.ru/proekty/kvadrokopter
 
-* https://www.youtube.com/watch?v=ZApm77Y5FgI
-* https://www.youtube.com/watch?v=HwpWhz3L9gw
-* https://www.youtube.com/watch?v=RVFCH0rQaRs
+**Квадрокоптер КО1. Стендовое испытание №1:**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZApm77Y5FgI" 
+target="_blank"><img src="http://img.youtube.com/vi/ZApm77Y5FgI/0.jpg" 
+alt="Квадрокоптер КО1. Стендовое испытание №1" width="240" height="180" border="10" /></a>
+
+** Квадрокоптер КО1. Демпфер контроллера:**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HwpWhz3L9gw" 
+target="_blank"><img src="http://img.youtube.com/vi/HwpWhz3L9gw/0.jpg" 
+alt="Квадрокоптер КО1. Демпфер контроллера" width="240" height="180" border="10" /></a>
+
+**Квадрокоптер КО1. Взлет без Z-стабилизации:**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=RVFCH0rQaRs" 
+target="_blank"><img src="http://img.youtube.com/vi/RVFCH0rQaRs/0.jpg" 
+alt="Квадрокоптер КО1. Демпфер контроллера" width="240" height="180" border="10" /></a>
 
 * http://www.flickr.com/photos/97915275@N02/10173852224/
 * http://www.flickr.com/photos/97915275@N02/9317901543/in/set-72157634292417738
