@@ -26,7 +26,7 @@
 target="_blank"><img src="http://img.youtube.com/vi/ZApm77Y5FgI/0.jpg" 
 alt="Квадрокоптер КО1. Стендовое испытание №1" width="240" height="180" border="10" /></a>
 
-** Квадрокоптер КО1. Демпфер контроллера:**
+**Квадрокоптер КО1. Демпфер контроллера:**
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HwpWhz3L9gw" 
 target="_blank"><img src="http://img.youtube.com/vi/HwpWhz3L9gw/0.jpg" 
