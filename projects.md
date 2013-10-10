@@ -49,7 +49,8 @@ alt="Квадрокоптер КО1. Демпфер контроллера" widt
 
 Куратор: Олег Евсегнеев
 
-**Колесный робот (RaspberryPi)**
+
+#### Колесный робот (RaspberryPi)
 
 * http://robotclass.ru/?p=295
 
@@ -65,7 +66,8 @@ alt="Мобильный робот на базе Raspberry Pi" width="240" heigh
 target="_blank"><img src="http://img.youtube.com/vi/9mvxiFbXCKc/0.jpg" 
 alt="Учебный робот-следопыт на основе Raspberry Pi" width="240" height="180" border="10" /></a>
 
-**Гусеничный робот (TI)**
+
+#### Гусеничный робот (TI)
 
 * https://sites.google.com/site/poprobotics/home/track-robot-msp430
 
@@ -76,11 +78,28 @@ target="_blank"><img src="http://img.youtube.com/vi/CEG5zxNvW1M/0.jpg"
 alt="Гусеничный робот на базе TI MSP430" width="240" height="180" border="10" /></a>
 
 
-**Шагающий робот (Arduino)**
+#### Шагающий робот (Arduino)
 
-* https://www.youtube.com/watch?v=nzGpPp6sTJo
-* https://www.youtube.com/watch?v=LpqWwsVtiPI
-* https://www.youtube.com/watch?v=-sFJlMypUXM
+Каркас напечатан на нашем 3д принтере
+
+Четырехлапый робот, 3D-printed:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nzGpPp6sTJo" 
+target="_blank"><img src="http://img.youtube.com/vi/nzGpPp6sTJo/0.jpg" 
+alt="Мобильный робот на базе Raspberry Pi" width="240" height="180" border="10" /></a>
+
+Четырехногий робот. Нападение:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LpqWwsVtiPI" 
+target="_blank"><img src="http://img.youtube.com/vi/LpqWwsVtiPI/0.jpg" 
+alt="Мобильный робот на базе Raspberry Pi" width="240" height="180" border="10" /></a>
+
+Четырехногий робот. Часть 2:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-sFJlMypUXM" 
+target="_blank"><img src="http://img.youtube.com/vi/-sFJlMypUXM/0.jpg" 
+alt="Мобильный робот на базе Raspberry Pi" width="240" height="180" border="10" /></a>
+
 
 
 Добавление памяти к Роутеру
