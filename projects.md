@@ -86,19 +86,19 @@ alt="Гусеничный робот на базе TI MSP430" width="240" height
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nzGpPp6sTJo" 
 target="_blank"><img src="http://img.youtube.com/vi/nzGpPp6sTJo/0.jpg" 
-alt="Мобильный робот на базе Raspberry Pi" width="240" height="180" border="10" /></a>
+alt="Четырехлапый робот, 3D-printed" width="240" height="180" border="10" /></a>
 
 Четырехногий робот. Нападение:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=LpqWwsVtiPI" 
 target="_blank"><img src="http://img.youtube.com/vi/LpqWwsVtiPI/0.jpg" 
-alt="Мобильный робот на базе Raspberry Pi" width="240" height="180" border="10" /></a>
+alt="Четырехногий робот. Нападение" width="240" height="180" border="10" /></a>
 
 Четырехногий робот. Часть 2:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-sFJlMypUXM" 
 target="_blank"><img src="http://img.youtube.com/vi/-sFJlMypUXM/0.jpg" 
-alt="Мобильный робот на базе Raspberry Pi" width="240" height="180" border="10" /></a>
+alt="Четырехногий робот. Часть 2" width="240" height="180" border="10" /></a>
 
 
 
@@ -174,6 +174,12 @@ Drawdio
 -------
 
 Куратор: Олег Евсегнее, Павел
+
+**Drawdio в MakeItLab:**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=5Zd0-g77Z9g" 
+target="_blank"><img src="http://img.youtube.com/vi/5Zd0-g77Z9g/0.jpg" 
+alt="Drawdio в MakeItLab" width="240" height="180" border="10" /></a>
 
 * https://www.youtube.com/watch?v=5Zd0-g77Z9g
 * http://www.flickr.com/photos/97915275@N02/9700239141/in/set-72157634292417738
