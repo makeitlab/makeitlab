@@ -201,7 +201,6 @@ href="http://www.youtube.com/watch?feature=player_embedded&v=5Zd0-g77Z9g"
 target="_blank"><img src="http://img.youtube.com/vi/5Zd0-g77Z9g/0.jpg" 
 alt="Drawdio в MakeItLab" width="240" height="180" border="10" /></a>
 
-* https://www.youtube.com/watch?v=5Zd0-g77Z9g
 * http://www.flickr.com/photos/97915275@N02/9700239141/in/set-72157634292417738
 
 
