@@ -22,19 +22,22 @@
 
 **Квадрокоптер КО1. Стендовое испытание №1:**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZApm77Y5FgI" 
+<a title="Посмотреть видео" 
+href="http://www.youtube.com/watch?feature=player_embedded&v=ZApm77Y5FgI" 
 target="_blank"><img src="http://img.youtube.com/vi/ZApm77Y5FgI/0.jpg" 
 alt="Квадрокоптер КО1. Стендовое испытание №1" width="240" height="180" border="10" /></a>
 
 **Квадрокоптер КО1. Демпфер контроллера:**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=HwpWhz3L9gw" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=HwpWhz3L9gw" 
 target="_blank"><img src="http://img.youtube.com/vi/HwpWhz3L9gw/0.jpg" 
 alt="Квадрокоптер КО1. Демпфер контроллера" width="240" height="180" border="10" /></a>
 
 **Квадрокоптер КО1. Взлет без Z-стабилизации:**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=RVFCH0rQaRs" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=RVFCH0rQaRs" 
 target="_blank"><img src="http://img.youtube.com/vi/RVFCH0rQaRs/0.jpg" 
 alt="Квадрокоптер КО1. Демпфер контроллера" width="240" height="180" border="10" /></a>
 
@@ -56,13 +59,15 @@ alt="Квадрокоптер КО1. Демпфер контроллера" widt
 
 Мобильный робот на базе Raspberry Pi:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Bg2mpChQFLk" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=Bg2mpChQFLk" 
 target="_blank"><img src="http://img.youtube.com/vi/Bg2mpChQFLk/0.jpg" 
 alt="Мобильный робот на базе Raspberry Pi" width="240" height="180" border="10" /></a>
 
 Учебный робот-следопыт на основе Raspberry Pi:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9mvxiFbXCKc" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=9mvxiFbXCKc" 
 target="_blank"><img src="http://img.youtube.com/vi/9mvxiFbXCKc/0.jpg" 
 alt="Учебный робот-следопыт на основе Raspberry Pi" width="240" height="180" border="10" /></a>
 
@@ -73,7 +78,8 @@ alt="Учебный робот-следопыт на основе Raspberry Pi" 
 
 Гусеничный робот на базе TI MSP430:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CEG5zxNvW1M" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=CEG5zxNvW1M" 
 target="_blank"><img src="http://img.youtube.com/vi/CEG5zxNvW1M/0.jpg" 
 alt="Гусеничный робот на базе TI MSP430" width="240" height="180" border="10" /></a>
 
@@ -84,19 +90,22 @@ alt="Гусеничный робот на базе TI MSP430" width="240" height
 
 Четырехлапый робот, 3D-printed:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nzGpPp6sTJo" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=nzGpPp6sTJo" 
 target="_blank"><img src="http://img.youtube.com/vi/nzGpPp6sTJo/0.jpg" 
 alt="Четырехлапый робот, 3D-printed" width="240" height="180" border="10" /></a>
 
 Четырехногий робот. Нападение:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=LpqWwsVtiPI" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=LpqWwsVtiPI" 
 target="_blank"><img src="http://img.youtube.com/vi/LpqWwsVtiPI/0.jpg" 
 alt="Четырехногий робот. Нападение" width="240" height="180" border="10" /></a>
 
 Четырехногий робот. Часть 2:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-sFJlMypUXM" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=-sFJlMypUXM" 
 target="_blank"><img src="http://img.youtube.com/vi/-sFJlMypUXM/0.jpg" 
 alt="Четырехногий робот. Часть 2" width="240" height="180" border="10" /></a>
 
@@ -125,7 +134,8 @@ TPLink MR3040 + SD
 
 **Печатать шестерни на клоне "Replicator 2":**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=gQZPC-NlS_s" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=gQZPC-NlS_s" 
 target="_blank"><img src="http://img.youtube.com/vi/gQZPC-NlS_s/0.jpg" 
 alt="Печатать шестерни на клоне 'Replicator 2'" width="240" height="180" border="10" /></a>
 
@@ -161,13 +171,15 @@ alt="Печатать шестерни на клоне 'Replicator 2'" width="24
 
 **Испытания орнитоптера Mark I:**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=HW7eyQIO2dw" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=HW7eyQIO2dw" 
 target="_blank"><img src="http://img.youtube.com/vi/HW7eyQIO2dw/0.jpg" 
 alt="Испытания орнитоптера Mark I" width="240" height="180" border="10" /></a>
 
 **Орнитоптер с видеокамерой на борту:**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=XDsylLlshGU" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=XDsylLlshGU" 
 target="_blank"><img src="http://img.youtube.com/vi/XDsylLlshGU/0.jpg" 
 alt="Орнитоптер с видеокамерой на борту" width="240" height="180" border="10" /></a>
 
@@ -182,7 +194,8 @@ Drawdio
 
 **Drawdio в MakeItLab:**
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5Zd0-g77Z9g" 
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=5Zd0-g77Z9g" 
 target="_blank"><img src="http://img.youtube.com/vi/5Zd0-g77Z9g/0.jpg" 
 alt="Drawdio в MakeItLab" width="240" height="180" border="10" /></a>
 
