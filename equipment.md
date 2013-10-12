@@ -21,7 +21,7 @@
 * STM32 F3 Discovery [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stm32_F3_DB.jpg)
 * Arduino Uno, 5шт (в октябре будут отданы в школу) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_uno.jpg)
 * Arduino Nano, v.3.0, 1шт (в пульте квадрокоптера, +1 на руках)
-* Arduino Shrimp - прошитые Atmega328p-pu, 1шт (+1 на руках)
+* Arduino Shrimp - прошитые Atmega328p-pu, 1шт (+1 на руках) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_shrimp.jpg)
 * Arduino XPort direct [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_xport.jpg)
 * Arduino XPort ethernet [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_eth.jpg)
 * USB-UART мост на cp2102, 3шт (+1 на руках)
@@ -33,6 +33,7 @@
 * Логический анализатор, FPGA, 16 каналов [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FPGA_logic.jpg)
 * Светодиодная лента, белый [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_stripe.jpg)
 * Pinboard [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pinboard.jpg)
+* Модуль SD карты [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sd_socket.jpg)
 
 **Индикация**
 * Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
@@ -49,6 +50,7 @@
 * Гироскоп+акселерометр+магнитометр+барометр (L3G4200D+ADXL345+HMC5883L+BMP085) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_IMU_DOF10.jpg)
 * Дальномер оптический Sharp 30cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_30cm.jpg)
 * Дальномер оптический Sharp 150cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_150cm.jpg)
+* CMOS камера ov7670 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_cam_ov7670.jpg)
 
 **Микросхемы**
 * USB-UART мост cp2102, 5шт
