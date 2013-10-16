@@ -51,10 +51,17 @@
 * Дальномер оптический Sharp 30cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_30cm.jpg)
 * Дальномер оптический Sharp 150cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_150cm.jpg)
 * CMOS камера ov7670 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_cam_ov7670.jpg)
+* Камера Raspberry Pi CSI, 5Mpx
 
 **Микросхемы**
 * USB-UART мост cp2102, 5шт
 * Драйвер двигателей DRV8833, 5шт
+* Логика в ассортименте, DIP
+
+**Пассивные**
+* Резисторы 0.125Вт, в ассортименте
+* Конденсаторы кер., в ассортименте
+* Конденсаторы элт., рассыпуха
 
 **Электромеханика**
 * DC двигатели из CD-ROM, кучка [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_motors.jpg)
@@ -67,6 +74,12 @@
 * Блок питания 12 В 350 Вт
 * ATX, 3шт
 * Лабораторный БП из ATX, 12В, 5В, 3.3В
+* БП сетевой, 5В, 2А, 5шт
+
+**Соединители**
+* Штыревые вилки/розетки, прямые/угол, шаг 2.54мм, кучка
+* Силовые латунные "бананы" 3.5мм, мама/папа, кучка
+* СИловые латунные HXT, 4мм, мама/папа, штук 10
 
 Оборудование в помещении
 -------------------------
