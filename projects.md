@@ -217,7 +217,8 @@ alt="Drawdio в MakeItLab" width="240" height="180" border="10" /></a>
 «во всех выключателей этой страны». То есть от разрыва одного провода 220В, 
 который заходит в выключатель.
 
-![DIY-диммер «Умного дома»](https://raw.github.com/makeitlab/makeitlab/master/images/projects/CoolRF.jpg)
+<a title="Открыть фото" href="https://raw.github.com/makeitlab/makeitlab/master/images/projects/CoolRF.jpg"><img src="https://raw.github.com/makeitlab/makeitlab/master/images/projects/CoolRF.jpg" 
+ width="240" border="10" /></a>
 
 
 **DIY-диммер «Умного дома» на тестовой плате:**
