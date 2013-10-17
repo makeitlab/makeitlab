@@ -21,7 +21,7 @@
 
 * http://www.poprobot.ru/proekty/kvadrokopter
 
-**Квадрокоптер КО1. Стендовое испытание №1:**
+**<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZApm77Y5FgI"><img valign="middle" src="https://raw.github.com/makeitlab/makeitlab/master/images/icons/video.png"></a> Квадрокоптер КО1. Стендовое испытание №1:**
 
 <a title="Посмотреть видео" 
 href="http://www.youtube.com/watch?feature=player_embedded&v=ZApm77Y5FgI" 
