@@ -37,7 +37,7 @@ href="http://www.youtube.com/watch?feature=player_embedded&v=HwpWhz3L9gw"
 target="_blank"><img src="http://img.youtube.com/vi/HwpWhz3L9gw/0.jpg" 
 alt="Квадрокоптер КО1. Демпфер контроллера" width="240" height="180" border="10" /></a>
 
-****<a target="_blank" href="http://www.youtube.com/watch?feature=player_embedded&v=RVFCH0rQaRs"><img valign="middle" src="https://raw.github.com/makeitlab/makeitlab/master/images/icons/video.png"></a>
+**<a target="_blank" href="http://www.youtube.com/watch?feature=player_embedded&v=RVFCH0rQaRs"><img valign="middle" src="https://raw.github.com/makeitlab/makeitlab/master/images/icons/video.png"></a>
 Квадрокоптер КО1. Взлет без Z-стабилизации:**
 
 <a title="Посмотреть видео"
