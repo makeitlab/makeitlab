@@ -38,6 +38,8 @@
 **Индикация**
 * Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
 * Дисплей LCD 16x2, 10шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
+* Дисплей LCD 16x4, 3шт
+* Дисплей LCD 8x2, 3шт
 * Дисплей сегментный светодиодный, 5шт для курсов + 5шт свободных [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
 * Матрица светодиодная 8x8, оранжевая и красная [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_8x8.jpg)
 * Дисплей TFT 128x160, 1.8", SPI [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_TFT_SPI128x160.jpg)
@@ -57,6 +59,15 @@
 * USB-UART мост cp2102, 5шт
 * Драйвер двигателей DRV8833, 5шт
 * Логика в ассортименте, DIP
+* Драйвер двигателей L6203, 9шт
+
+** Микроконтроллеры **
+* ATMega 8535 16PI, DIP, 3шт
+* ATMega 8515 16PU, DIP, 3шт
+* ATMega 16 16PU, DIP, 2шт
+* ATMega 8L 8PU, DIP, 6шт
+* ATMega 16 16AU,TQFP, 6шт
+* ATTiny 13 20PU, DIP, 6шт
 
 **Пассивные**
 * Резисторы 0.125Вт, в ассортименте
@@ -86,6 +97,7 @@
 
 * 3д принтер Duplicator 3, двухголовочный (клон Duplicator Dual) (Семен) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_duplicator3_3Dprinter.jpg)
 * 3д принтер PrintrBot (Семен)(на реконструкции)
+* 3д принтер RepRap Mendel (Анатолий) (на ремонте)
 * Станок микрофрезерный с ЧПУ (MF70) (Олег) (укажите рабочее поле) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_MF70_CNC.jpg)
 * Паяльная станция ERSA RDS 80 (Сергей) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg)
 * Паяльный фен
@@ -96,7 +108,7 @@
 * Дремель [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_dremel.jpg)
 * ЛАТР
 
-**Персональные компьютерыи и мониторы**
+**Персональные компьютеры и мониторы**
 * P4, 3Гб ОЗУ, со встроенным контроллером ЧПУ (занят под 3D-принтер)
 * P4
 * Ноутбук Celeron
@@ -153,6 +165,13 @@
 ![Материалы](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_gsm.jpg)
 
 
+**Платы**
+
+* Текстолит односторонний, А4, 9шт
+* Текстолит односторонний, 8x20, 2шт
+* Текстолит двухсторонний, 8x20, 2шт
+* Макетная плата, 10x20, 3шт
+
 **Клей** 
 
 * клей гель супер + праймер (цианоакрилат)
@@ -183,6 +202,7 @@
 **СИЗ**
 
 * рабочие перчатки хб 5 пар
+* Очки
 
 Оборудование планируемое
 ------------------------
@@ -218,11 +238,11 @@
 
 * Фрезерный и токарный станки Sherline (Степан Глушков, Алексей Галахов)
 
-Пожелания по новому оборудованию
---------------------------------
+Пожелания по новому оборудованию и компонентам
+----------------------------------------------
 * консистентные смазки (литол, ЦИАТИМ221, графитовая)
 * Защитные очки/щиток
-* Перчатки спилоковые
+* Перчатки силиконовые
 * струбцинки
 * Прищепки
 * набор мелких отверток (шлиц, PH0, PH00, PH000, мелкие торксы)
