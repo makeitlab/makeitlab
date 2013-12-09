@@ -18,9 +18,10 @@
 * TI Launchpad MSP430, 1шт (+1 на руках) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_msp430_DB.jpg)
 * TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stellaris_DB.jpg)
 * FPGA Papilio One 500K [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_one_500_DB.jpg)
-* STM32 F3 Discovery [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stm32_F3_DB.jpg)
+* STM32 F3 Discovery, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stm32_F3_DB.jpg)
 * Arduino Uno, 5шт (в октябре будут отданы в школу) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_uno.jpg)
 * Arduino Nano, v.3.0, 1шт (в пульте квадрокоптера, +1 на руках)
+* Arduino Leonardo, 10шт
 * Arduino Shrimp - прошитые Atmega328p-pu, 1шт (+1 на руках) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_shrimp.jpg)
 * Arduino XPort direct [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_xport.jpg)
 * Arduino XPort ethernet [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_eth.jpg)
@@ -76,8 +77,8 @@
 
 **Электромеханика**
 * DC двигатели из CD-ROM, кучка [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_motors.jpg)
-* Шаговые микродвигатели №1, кучка
-* Шаговые микродвигатели №2, кучка
+* Шаговые микродвигатели, кучка
+* Шаговые двигатели, кучка
 * Миниатюрные DC двигатели c редуктором, кучка
 * Шаговые двигатели NEMA23 с двумя валами, 2шт
  
@@ -85,12 +86,16 @@
 * Блок питания 12 В 350 Вт
 * ATX, 3шт
 * Лабораторный БП из ATX, 12В, 5В, 3.3В
+* Лабораторный БП из ATX, 5x USB
 * БП сетевой, 5В, 2А, 5шт
 
 **Соединители**
 * Штыревые вилки/розетки, прямые/угол, шаг 2.54мм, кучка
 * Силовые латунные "бананы" 3.5мм, мама/папа, кучка
 * СИловые латунные HXT, 4мм, мама/папа, штук 10
+
+**Компоненты и периферия ПК**
+* USB WiFi, 2шт
 
 Оборудование в помещении
 -------------------------
@@ -102,7 +107,8 @@
 * Паяльная станция ERSA RDS 80 (Сергей) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg)
 * Паяльный фен
 * Паяльник с регулятором температуры 300-500
-* принтер ч/б лазерный (devianth)
+* принтер ч/б лазерный, 2шт
+* принтер цветной струйный
 * Мультиметр, 2шт
 * Осциллограф, Hantec DSO-2150
 * Дремель [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_dremel.jpg)
@@ -110,7 +116,7 @@
 
 **Персональные компьютеры и мониторы**
 * P4, 3Гб ОЗУ, со встроенным контроллером ЧПУ (занят под 3D-принтер)
-* P4
+* P4, 2шт
 * Ноутбук Celeron
 * Сервера Xeon, P4, кучка (требуют внимания)
 * Монитор 14", 2шт
