@@ -11,6 +11,7 @@
 * [Голограмма](#Голограмма)
 * [Орнитоптер](#Орнитоптер)
 * [Drawdio](#drawdio)
+* [Управляемый светорегулятор для умного дома](#Управляемый-светорегулятор-для-умного-дома)
 
 
 Квадрокоптер
@@ -20,21 +21,24 @@
 
 * http://www.poprobot.ru/proekty/kvadrokopter
 
-**Квадрокоптер КО1. Стендовое испытание №1:**
+**<a target="_blank" href="http://www.youtube.com/watch?feature=player_embedded&v=ZApm77Y5FgI"><img valign="middle" src="https://raw.github.com/makeitlab/makeitlab/master/images/icons/video.png"></a>
+Квадрокоптер КО1. Стендовое испытание №1:**
 
 <a title="Посмотреть видео" 
 href="http://www.youtube.com/watch?feature=player_embedded&v=ZApm77Y5FgI" 
 target="_blank"><img src="http://img.youtube.com/vi/ZApm77Y5FgI/0.jpg" 
 alt="Квадрокоптер КО1. Стендовое испытание №1" width="240" height="180" border="10" /></a>
 
-**Квадрокоптер КО1. Демпфер контроллера:**
+**<a target="_blank" href="http://www.youtube.com/watch?feature=player_embedded&v=HwpWhz3L9gw"><img valign="middle" src="https://raw.github.com/makeitlab/makeitlab/master/images/icons/video.png"></a>
+Квадрокоптер КО1. Демпфер контроллера:**
 
 <a title="Посмотреть видео"
 href="http://www.youtube.com/watch?feature=player_embedded&v=HwpWhz3L9gw" 
 target="_blank"><img src="http://img.youtube.com/vi/HwpWhz3L9gw/0.jpg" 
 alt="Квадрокоптер КО1. Демпфер контроллера" width="240" height="180" border="10" /></a>
 
-**Квадрокоптер КО1. Взлет без Z-стабилизации:**
+**<a target="_blank" href="http://www.youtube.com/watch?feature=player_embedded&v=RVFCH0rQaRs"><img valign="middle" src="https://raw.github.com/makeitlab/makeitlab/master/images/icons/video.png"></a>
+Квадрокоптер КО1. Взлет без Z-стабилизации:**
 
 <a title="Посмотреть видео"
 href="http://www.youtube.com/watch?feature=player_embedded&v=RVFCH0rQaRs" 
@@ -128,7 +132,7 @@ TPLink MR3040 + SD
 3д принтер, 3д печать
 ---------------------
 
-Куратор: Семён
+Куратор: Семён Паркышев
 
 Создание 3д принтеров, 3д печать, формирование 3д моделей из фотографий
 
@@ -161,7 +165,7 @@ alt="Печатать шестерни на клоне 'Replicator 2'" width="24
 Голограмма
 ----------
 
-Куратор: Алексей
+Куратор: Алексей Галахов
 
 TODO
 
@@ -169,7 +173,7 @@ TODO
 Орнитоптер
 ----------
 
-Куратор: Степан
+Куратор: Степан Глушков
 
 **Испытания орнитоптера Mark I:**
 
@@ -192,7 +196,7 @@ alt="Орнитоптер с видеокамерой на борту" width="24
 Drawdio
 -------
 
-Куратор: Олег Евсегнее, Павел
+Куратор: Олег Евсегнеев, Павел Серков
 
 **Drawdio в MakeItLab:**
 
@@ -203,4 +207,31 @@ alt="Drawdio в MakeItLab" width="240" height="180" border="10" /></a>
 
 * http://www.flickr.com/photos/97915275@N02/9700239141/in/set-72157634292417738
 
+
+Управляемый светорегулятор для умного дома
+------------------------------------------
+
+Куратор: Вячеслав Анисимов
+
+Встраиваемый модуль для управления освещением. Решение одномодульное. 
+
+Инсталлируется в обычные квартиры в обычные коробки за обычные выключатели без изменения проводки. 
+Общается с внешним миром по 2,4GHz радиоканалу и питается от той сети, которая уже есть 
+«во всех выключателей этой страны». То есть от разрыва одного провода 220В, 
+который заходит в выключатель.
+
+<a title="Открыть фото" href="https://raw.github.com/makeitlab/makeitlab/master/images/projects/CoolRF.jpg"><img src="https://raw.github.com/makeitlab/makeitlab/master/images/projects/CoolRF.jpg" 
+ width="240" border="10" /></a>
+
+
+**DIY-диммер «Умного дома» на тестовой плате:**
+
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=AUDQtN-PEcg" 
+target="_blank"><img src="http://img.youtube.com/vi/AUDQtN-PEcg/0.jpg" 
+alt="Drawdio в MakeItLab" width="240" height="180" border="10" /></a>
+
+* [Инновационный диммер «Умного дома»](http://habrahabr.ru/post/192926/)
+* [Первые тесты DIY-диммера «Умного дома»](http://habrahabr.ru/post/193510/)
+* [DIY-диммер «Умного дома» на тестовой плате](http://habrahabr.ru/post/195240/)
 

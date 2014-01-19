@@ -18,7 +18,7 @@
 * TI Launchpad MSP430, 1шт (+1 на руках) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_msp430_DB.jpg)
 * TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stellaris_DB.jpg)
 * FPGA Papilio One 500K [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_one_500_DB.jpg)
-* STM32 F3 Discovery [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stm32_F3_DB.jpg)
+* STM32 F3 Discovery, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stm32_F3_DB.jpg)
 * USB-UART мост на cp2102, 3шт (+1 на руках)
 * USB-UART FT2232H, полностью разведенный [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FT2232H.jpg)
 * Радиопередатчик на nRF24, 14шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_radio_nrf24.jpg)
@@ -28,6 +28,7 @@
 * Логический анализатор, FPGA, 16 каналов [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FPGA_logic.jpg)
 * Светодиодная лента, белый [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_stripe.jpg)
 * Pinboard [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pinboard.jpg)
+* Модуль SD карты [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sd_socket.jpg)
 
 **Arduino**
 * Arduino Uno, 5шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_uno.jpg)
@@ -41,6 +42,8 @@
 **Индикация**
 * Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
 * Дисплей LCD 16x2, 10шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
+* Дисплей LCD 16x4, 3шт
+* Дисплей LCD 8x2, 3шт
 * Дисплей сегментный светодиодный, 5шт для курсов + 5шт свободных [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
 * Матрица светодиодная 8x8, оранжевая и красная [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_8x8.jpg)
 * Дисплей TFT 128x160, 1.8", SPI [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_TFT_SPI128x160.jpg)
@@ -52,15 +55,32 @@
 * Гироскоп+акселерометр+магнитометр+барометр (L3G4200D+ADXL345+HMC5883L+BMP085) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_IMU_DOF10.jpg)
 * Дальномер оптический Sharp 30cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_30cm.jpg)
 * Дальномер оптический Sharp 150cm, 4шт (не распаяны) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_150cm.jpg)
+* CMOS камера ov7670 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_cam_ov7670.jpg)
+* Камера Raspberry Pi CSI, 5Mpx
 
 **Микросхемы**
 * USB-UART мост cp2102, 5шт
 * Драйвер двигателей DRV8833, 5шт
+* Логика в ассортименте, DIP
+* Драйвер двигателей L6203, 9шт
+
+**Микроконтроллеры**
+* ATMega 8535 16PI, DIP, 3шт
+* ATMega 8515 16PU, DIP, 3шт
+* ATMega 16 16PU, DIP, 2шт
+* ATMega 8L 8PU, DIP, 6шт
+* ATMega 16 16AU,TQFP, 6шт
+* ATTiny 13 20PU, DIP, 6шт
+
+**Пассивные**
+* Резисторы 0.125Вт, в ассортименте
+* Конденсаторы кер., в ассортименте
+* Конденсаторы элт., рассыпуха
 
 **Электромеханика**
 * DC двигатели из CD-ROM, кучка [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_motors.jpg)
-* Шаговые микродвигатели №1, кучка
-* Шаговые микродвигатели №2, кучка
+* Шаговые микродвигатели, кучка
+* Шаговые двигатели, кучка
 * Миниатюрные DC двигатели c редуктором, кучка
 * Шаговые двигатели NEMA23 с двумя валами, 2шт
  
@@ -68,7 +88,17 @@
 * Блок питания 12 В 350 Вт
 * ATX, 3шт
 * Лабораторный БП из ATX, 12В, 5В, 3.3В
+* Лабораторный БП из ATX, 5x USB
 * БП встраиваемые, 220В [картинка] (https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_power.jpg)
+* БП сетевой, 5В, 2А, 5шт
+
+**Соединители**
+* Штыревые вилки/розетки, прямые/угол, шаг 2.54мм, кучка
+* Силовые латунные "бананы" 3.5мм, мама/папа, кучка
+* СИловые латунные HXT, 4мм, мама/папа, штук 10
+
+**Компоненты и периферия ПК**
+* USB WiFi, 2шт
 
 Оборудование в помещении
 -------------------------
@@ -82,7 +112,7 @@
 * Паяльный фен
 * Паяльник с регулятором температуры 300-500
 * принтер ч/б лазерный, 2шт
-* принтер струйный
+* принтер цветной струйный
 * Мультиметр, 2шт
 * Осциллограф, Hantec DSO-2150
 * Дремель ProSkit [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_dremel.jpg)
@@ -91,7 +121,7 @@
 
 **Персональные компьютеры и мониторы**
 * P4, 3Гб ОЗУ, со встроенным контроллером ЧПУ (занят под 3D-принтер)
-* P4
+* P4, 2шт
 * Ноутбук Celeron
 * Сервера Xeon, P4, кучка (требуют внимания)
 * Монитор 14", 3 шт
@@ -145,6 +175,13 @@
 ![Материалы](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_gsm.jpg)
 
 
+**Платы**
+
+* Текстолит односторонний, А4, 9шт
+* Текстолит односторонний, 8x20, 2шт
+* Текстолит двухсторонний, 8x20, 2шт
+* Макетная плата, 10x20, 3шт
+
 **Клей** 
 
 * клей гель супер + праймер (цианоакрилат)
@@ -175,6 +212,7 @@
 **СИЗ**
 
 * рабочие перчатки хб 5 пар
+* Очки
 
 Оборудование планируемое
 ------------------------
@@ -210,11 +248,11 @@
 
 * Фрезерный и токарный станки Sherline (Степан Глушков, Алексей Галахов)
 
-Пожелания по новому оборудованию
---------------------------------
+Пожелания по новому оборудованию и компонентам
+----------------------------------------------
 * консистентные смазки (литол, ЦИАТИМ221, графитовая)
 * Защитные очки/щиток
-* Перчатки спилоковые
+* Перчатки силиконовые
 * струбцинки
 * Прищепки
 * набор мелких отверток (шлиц, PH0, PH00, PH000, мелкие торксы)
