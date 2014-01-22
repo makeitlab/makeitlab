@@ -42,8 +42,8 @@
 **Индикация**
 * Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
 * Дисплей LCD 16x2, 10шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
-* Дисплей LCD 16x4, 3шт
-* Дисплей LCD 8x2, 3шт
+* Дисплей LCD 16x4, 3шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x4.jpg)
+* Дисплей LCD 8x2, 3шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_8x2.jpg)
 * Дисплей сегментный светодиодный, 5шт для курсов + 5шт свободных [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
 * Матрица светодиодная 8x8, оранжевая и красная [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_8x8.jpg)
 * Дисплей TFT 128x160, 1.8", SPI [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_TFT_SPI128x160.jpg)
@@ -91,6 +91,7 @@
 * Лабораторный БП из ATX, 5x USB
 * БП встраиваемые, 220В [картинка] (https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_power.jpg)
 * БП сетевой, 5В, 2А, 5шт
+* LiPo 5000mAh, 3s
 
 **Соединители**
 * Штыревые вилки/розетки, прямые/угол, шаг 2.54мм, кучка
@@ -99,6 +100,12 @@
 
 **Компоненты и периферия ПК**
 * USB WiFi, 2шт
+
+**Компоненты для мультикоптера**
+* лопасти 10x4.5, черные, 2 пары
+* лопасти 10x4.5, красные, 4 пары
+* лопасти 12x4.5, красные, 4 пары
+* коннекторы-бананы 3.5мм, 20пар
 
 Оборудование в помещении
 -------------------------
