@@ -215,6 +215,21 @@ alt="Тест Drawbot'a" width="240" height="180" border="10" /></a>
 
 Статус: кодирование
 
+#### Робот Карел (Fritz)
+
+Куратор: Олег Евсегнеев
+
+Робот Fritz, изготовленный по чертежам с кикстартера.
+
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=D11PvURQVK4" 
+target="_blank"><img src="http://img.youtube.com/vi/D11PvURQVK4/0.jpg" 
+alt="Тест Drawbot'a" width="240" height="180" border="10" /></a>
+
+<iframe src="http://www.flickr.com/photos/97915275@N02/11268998403/player/" width="500" height="281" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+Статус: завершен, принимаем заказы на изготовление
+
 
 #### Автоматическая/телеуправляемая турель SC1
 
