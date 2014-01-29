@@ -194,7 +194,7 @@ href="http://www.youtube.com/watch?feature=player_embedded&v=-sFJlMypUXM"
 target="_blank"><img src="http://img.youtube.com/vi/-sFJlMypUXM/0.jpg" 
 alt="Четырехногий робот. Часть 2" width="240" height="180" border="10" /></a>
 
-Статус - завершен.
+Статус: завершен, принимаем заказы на изготовление
 
 
 #### Робот-художник Drawbot
@@ -215,7 +215,8 @@ alt="Тест Drawbot'a" width="240" height="180" border="10" /></a>
 
 Статус: кодирование
 
-#### Робот Карел (Fritz)
+
+#### Робот-голова Карел (Fritz)
 
 Куратор: Олег Евсегнеев
 
@@ -226,7 +227,9 @@ href="http://www.youtube.com/watch?feature=player_embedded&v=D11PvURQVK4"
 target="_blank"><img src="http://img.youtube.com/vi/D11PvURQVK4/0.jpg" 
 alt="Тест Drawbot'a" width="240" height="180" border="10" /></a>
 
-<iframe src="http://www.flickr.com/photos/97915275@N02/11268998403/player/" width="500" height="281" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+Фото:
+
+http://flic.kr/p/iaNyBV
 
 Статус: завершен, принимаем заказы на изготовление
 
