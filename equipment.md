@@ -13,18 +13,19 @@
 Электронные компоненты
 
 **Готовые устройства**
-* Raspberry PI, 7шт (+3 на руках) (для курсов)
-* Raspberry PI, 1шт (всегда доступен) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_raspberrypi.jpg)
-* TI Launchpad MSP430, 1шт (+1 на руках) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_msp430_DB.jpg)
+* Raspberry PI, 6шт (для курсов: 3 в роботах МР1, 3 в стендах)
+* Raspberry PI, 2шт (1 в игровом автомате, 1 для камеры) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_raspberrypi.jpg)
+* TI Launchpad MSP430, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_msp430_DB.jpg)
 * TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stellaris_DB.jpg)
-* FPGA Papilio One 500K [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_one_500_DB.jpg)
+* FPGA Papilio One 500K, 1шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_one_500_DB.jpg)
 * STM32 F3 Discovery, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stm32_F3_DB.jpg)
 * USB-UART мост на cp2102, 3шт (+1 на руках)
 * USB-UART FT2232H, полностью разведенный [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FT2232H.jpg)
 * Радиопередатчик на nRF24, 14шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_radio_nrf24.jpg)
-* Лазеры 5mW с линзами, в корпусе, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_laser_5mw.jpg)
+* Лазеры 5mW с линзами, 3.3В, в корпусе, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_laser_5mw.jpg)
+* Лазеры 5mW с линзами, 5В, в корпусе, 100шт
 * Драйвер двигателей Pololu DRV8833 (10шт)(для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_drv8833.jpg)
-* RFID читалка rc522  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_rfid_rc522.jpg)
+* RFID читалка rc522, 1шт  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_rfid_rc522.jpg)
 * Логический анализатор, FPGA, 16 каналов [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FPGA_logic.jpg)
 * Светодиодная лента, белый [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_stripe.jpg)
 * Pinboard [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pinboard.jpg)
@@ -34,14 +35,14 @@
 * Arduino Uno, 5шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_uno.jpg)
 * Arduino Nano, v.3.0, 1шт (в пульте квадрокоптера, +1 на руках)
 * Arduino Leonardo, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_leonardo.jpg)
-* Arduino Shrimp - прошитые Atmega328p-pu, 1шт (+1 на руках)
+* Arduino Shrimp/JustDuino, 9шт (не все распаяны)
 * Arduino XPort direct [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_xport.jpg)
 * Arduino XPort ethernet [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_eth.jpg)
-* Arduino Shield V5 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_shieldV5.jpg)
+* Arduino Shield V5, 5шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_shieldV5.jpg)
 
 **Индикация**
-* Дисплей LCD Nokia 5510 распаянный, 4шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
-* Дисплей LCD 16x2, 10шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
+* Дисплей LCD Nokia 5510 распаянный, 3шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
+* Дисплей LCD 16x2, 6шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
 * Дисплей LCD 16x4, 3шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x4.jpg)
 * Дисплей LCD 8x2, 3шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_8x2.jpg)
 * Дисплей сегментный светодиодный, 5шт для курсов + 5шт свободных [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
@@ -81,9 +82,10 @@
 * DC двигатели из CD-ROM, кучка [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_motors.jpg)
 * Шаговые микродвигатели, кучка
 * Шаговые двигатели, кучка
-* Миниатюрные DC двигатели c редуктором, кучка
-* Шаговые двигатели NEMA23 с двумя валами, 2шт
- 
+* Миниатюрные DC двигатели c редуктором и без, кучка
+* Шаговые двигатели NEMA23 с удлиненным валом, 2шт
+* Шаговые двигатели NEMA23, 12шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_nema23.jpg)
+
 **Питание**
 * Блок питания 12 В 350 Вт
 * ATX, 3шт
@@ -91,7 +93,9 @@
 * Лабораторный БП из ATX, 5x USB
 * БП встраиваемые, 220В [картинка] (https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_power.jpg)
 * БП сетевой, 5В, 2А, 5шт
-* LiPo 5000mAh, 3s
+* LiPo 5000mAh, 30C, 3s
+* LiPo 3000mAh, 30-40C, 3s (на квадрокоптере)
+* LiPo 2200mAh, 30C, 3s
 
 **Соединители**
 * Штыревые вилки/розетки, прямые/угол, шаг 2.54мм, кучка
@@ -106,16 +110,18 @@
 * лопасти 10x4.5, красные, 4 пары
 * лопасти 12x4.5, красные, 4 пары
 * коннекторы-бананы 3.5мм, 20пар
+* коннекторы-бананы 2.5мм, 20пар
 
 Оборудование в помещении
 -------------------------
 
-* 3д принтер Duplicator 3 (клон Duplicator Dual) (Семен Паркышев) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_duplicator3_3Dprinter.jpg)
-* 3д принтер PrintrBot (Семен Паркышев)(на реконструкции)
-* 3д принтер RepRap Mendel Pro (Игорь)(на настройке)
-* Станок микрофрезерный с ЧПУ (MF70) (Олег Евсегнеев) (рабочее поле?) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_MF70_CNC.jpg)
-* Станок сверлильный
-* Паяльная станция ERSA RDS 80 (Сергей) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg)
+* 3д принтер Duplicator 3 (клон Duplicator Dual) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_duplicator3_3Dprinter.jpg)
+* 3д принтер PrintrBot (на реконструкции)
+* 3д принтер RepRap Mendel Pro
+* 3д принтер Malyan
+* Станок микрофрезерный с ЧПУ (MF70) (рабочее поле?) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_MF70_CNC.jpg)
+* Станок сверлильный, SBOKY, ZJQ4116K, 16мм, 375Вт  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_drill.jpg)
+* Паяльная станция ERSA RDS 80 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg)
 * Паяльный фен
 * Паяльник с регулятором температуры 300-500
 * принтер ч/б лазерный, 2шт
@@ -124,12 +130,12 @@
 * Осциллограф, Hantec DSO-2150
 * Дремель ProSkit [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_dremel.jpg)
 * Дремель SKU [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_dremel2.jpg)
-* ЛАТР
+* ЛАТР [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_latr.jpg)
 
 **Персональные компьютеры и мониторы**
-* P4, 3Гб ОЗУ, со встроенным контроллером ЧПУ (занят под 3D-принтер)
-* P4, 2шт
-* Ноутбук Celeron
+* P4, 3Гб ОЗУ, со встроенным контроллером ЧПУ (занят под 3D-принтер Mendel и фрезер)
+* P4, 2шт (3D-принтер + 1 свободный)
+* Ноутбук Celeron (3D-принтер)
 * Сервера Xeon, P4, кучка (требуют внимания)
 * Монитор 14", 3 шт
 
