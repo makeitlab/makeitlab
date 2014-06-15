@@ -58,7 +58,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Статус: в разработке, изменение конструкции
 
 
-#### Орнитоптер ОРНИ-2
+#### Орнитоптер ОРНИ-1
 
 Куратор: Степан Глушков
 
@@ -114,7 +114,7 @@ alt="Орнитоптер с видеокамерой на борту" width="24
 Блог проекта:
 * http://seplus.blogspot.ru/
 
-Еще видео:
+** Еще видео **
 <a title="Посмотреть видео"
 href="http://www.youtube.com/watch?feature=player_embedded&v=9IOj6KXq8KU" 
 target="_blank"><img src="http://img.youtube.com/vi/9IOj6KXq8KU/0.jpg" 
