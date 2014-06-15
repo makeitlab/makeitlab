@@ -13,8 +13,7 @@
 Электронные компоненты
 
 **Готовые устройства**
-* Raspberry PI, 6шт (для курсов: 3 в роботах МР1, 3 в стендах)
-* Raspberry PI, 2шт (1 в игровом автомате, 1 для камеры) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_raspberrypi.jpg)
+* Raspberry PI, 8шт (1 в игровом автомате, 1 для камеры) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_raspberrypi.jpg)
 * TI Launchpad MSP430, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_msp430_DB.jpg)
 * TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stellaris_DB.jpg)
 * FPGA Papilio One 500K, 1шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_one_500_DB.jpg)
@@ -38,19 +37,21 @@
 * Arduino Shrimp/JustDuino, 9шт (не все распаяны)
 * Arduino XPort direct [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_xport.jpg)
 * Arduino XPort ethernet [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_eth.jpg)
-* Arduino Shield V5, 5шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_shieldV5.jpg)
+* Arduino Shield V5 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_comm_shieldV5.jpg)
+* Arduino Motor Shield V2 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_motor_shieldV2.jpg)
 
 **Индикация**
-* Дисплей LCD Nokia 5510 распаянный, 3шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
-* Дисплей LCD 16x2, 6шт (для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
+* Дисплей LCD Nokia 5510 распаянный, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_nokia5510.jpg)
+* Дисплей LCD 16x2, 6шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x2.jpg)
 * Дисплей LCD 16x4, 3шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_16x4.jpg)
 * Дисплей LCD 8x2, 3шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_lcd_8x2.jpg)
-* Дисплей сегментный светодиодный, 5шт для курсов + 5шт свободных [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
+* Индикатор сегментный светодиодный - цифра, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_seg.jpg)
+* Индикатор сегментный светодиодный - уровень, 5шт 
 * Матрица светодиодная 8x8, оранжевая и красная [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_8x8.jpg)
 * Дисплей TFT 128x160, 1.8", SPI [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_TFT_SPI128x160.jpg)
 
 **Датчики**
-* Дальномер ультразвуковой hc-sr04, 10шт? (надо посчитать) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_usonic_hcsr04.jpg)
+* Дальномер ультразвуковой hc-sr04, >10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_usonic_hcsr04.jpg)
 * Акселерометр Pololu MMA7361L 3-Axis ±1.5/6g [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_acc.jpg)
 * Гироскоп LPR550AL XY ±500°/s, ±2000°/s [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_gyr.jpg)
 * Гироскоп+акселерометр+магнитометр+барометр (L3G4200D+ADXL345+HMC5883L+BMP085) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_IMU_DOF10.jpg)
@@ -74,20 +75,20 @@
 * ATTiny 13 20PU, DIP, 6шт
 
 **Пассивные**
-* Резисторы 0.125Вт, в ассортименте
-* Конденсаторы кер., в ассортименте
-* Конденсаторы элт., рассыпуха
+* Резисторы 0.125Вт
+* Конденсаторы керамика
+* Конденсаторы электролиты
 
 **Электромеханика**
-* DC двигатели из CD-ROM, кучка [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_motors.jpg)
-* Шаговые микродвигатели, кучка
-* Шаговые двигатели, кучка
-* Миниатюрные DC двигатели c редуктором и без, кучка
+* DC двигатели из CD-ROM [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_motors.jpg)
+* Шаговые микродвигатели
+* Шаговые двигатели из принтеров, NEMA17 и пр.
+* Миниатюрные DC двигатели c редуктором и без
 * Шаговые двигатели NEMA23 с удлиненным валом, 2шт
 * Шаговые двигатели NEMA23, 12шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_nema23.jpg)
 
 **Питание**
-* Блок питания 12 В 350 Вт
+* Блок питания 12В 350Вт
 * ATX, 3шт
 * Лабораторный БП из ATX, 12В, 5В, 3.3В
 * Лабораторный БП из ATX, 5x USB
@@ -96,10 +97,11 @@
 * LiPo 5000mAh, 30C, 3s
 * LiPo 3000mAh, 30-40C, 3s (на квадрокоптере)
 * LiPo 2200mAh, 30C, 3s
+* Li-Ion 3000mAh 18650
 
 **Соединители**
-* Штыревые вилки/розетки, прямые/угол, шаг 2.54мм, кучка
-* Силовые латунные "бананы" 3.5мм, мама/папа, кучка
+* Штыревые вилки/розетки, прямые/угол, шаг 2.54мм
+* Силовые латунные "бананы" 3.5мм, мама/папа
 * СИловые латунные HXT, 4мм, мама/папа, штук 10
 
 **Компоненты и периферия ПК**
@@ -111,21 +113,23 @@
 * лопасти 12x4.5, красные, 4 пары
 * коннекторы-бананы 3.5мм, 20пар
 * коннекторы-бананы 2.5мм, 20пар
+* 4 луча 250мм, углепластик, трубка 12мм
+* T-образные крепления для лучше 12мм
 
 Оборудование в помещении
 -------------------------
 
 * 3д принтер Duplicator 3 (клон Duplicator Dual) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_duplicator3_3Dprinter.jpg)
 * 3д принтер PrintrBot (на реконструкции)
-* 3д принтер RepRap Mendel Pro
+* 3д принтер RepRap Mendel Pro (временно отсутствует)
 * 3д принтер Malyan
 * Станок микрофрезерный с ЧПУ (MF70) (рабочее поле?) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_MF70_CNC.jpg)
 * Станок сверлильный, SBOKY, ZJQ4116K, 16мм, 375Вт  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_drill.jpg)
 * Паяльная станция ERSA RDS 80 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_soldering.jpg)
 * Паяльный фен
-* Паяльник с регулятором температуры 300-500
-* принтер ч/б лазерный, 2шт
-* принтер цветной струйный
+* Паяльники с регулятором температуры
+* Принтер ч/б лазерный, 2шт
+* Принтер цветной струйный
 * Мультиметр, 2шт
 * Осциллограф, Hantec DSO-2150
 * Дремель ProSkit [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/tools/makeitlab_dremel.jpg)
@@ -135,9 +139,8 @@
 **Персональные компьютеры и мониторы**
 * P4, 3Гб ОЗУ, со встроенным контроллером ЧПУ (занят под 3D-принтер Mendel и фрезер)
 * P4, 2шт (3D-принтер + 1 свободный)
-* Ноутбук Celeron (3D-принтер)
-* Сервера Xeon, P4, кучка (требуют внимания)
-* Монитор 14", 3 шт
+* Ноутбук Celeron
+* Монитор 14"-19", 5 шт
 
 **Слесарный инструмент**
 
@@ -225,22 +228,19 @@
 **СИЗ**
 
 * рабочие перчатки хб 5 пар
-* Очки
+* очки
 
 Оборудование планируемое
 ------------------------
 
-* принтер цветной перезаправляемый струйник (devianth)
 * прямошлифовальная машина (devianth)
-* старенький ноутбук на п4 с дохлым аккумулятором. Аккум можно восстановить (devianth)
-* Фотоаппарат я думаю достану какой-нибудь, зеркалка или как минимум гибрид (devianth)
-
+* Фотоаппарат, зеркалка или как минимум гибрид (devianth)
 
 Оборудование предоставляемое участниками по требованию
 ------------------------------------------------------
 
-* фотик снимает до 1000 к/сек (Семен)
-* Есть камера, снимающая 400 кадров в секунду (devianth)
+* Фотоаппарат, до 1000 к/сек (Семен)
+* Видеокамера, до 400 кадров в секунду (devianth)
 
 Внешнее оборудование доступное через участников
 -----------------------------------------------
@@ -263,28 +263,23 @@
 
 Пожелания по новому оборудованию и компонентам
 ----------------------------------------------
-* консистентные смазки (литол, ЦИАТИМ221, графитовая)
-* Защитные очки/щиток
-* Перчатки силиконовые
-* струбцинки
+* Консистентные смазки (литол, ЦИАТИМ221, графитовая)
+* Струбцинки
 * Прищепки
-* набор мелких отверток (шлиц, PH0, PH00, PH000, мелкие торксы)
-* стрипперы
-* Пинцеты (SMD и анатомические)
-* резьбонарезной инструмент
-* различный крепеж
-* электроточило
-* бормашинка proxxon/dremel
-* сверлильный станок
-* электролобзик
+* Стрипперы
+* Резьбонарезной инструмент
+* Электроточило
+* Электролобзик
 * PiFace - плата расширения для RPi
-* BeagleBone Black
 * A13-OLinuXino
 * WandBoard
 * Maple Mini
 
 
-Услуги участников
+Услуги и оборудование участников
 -----------------
 
-* в плане фотиков и оптики у меня есть доступ к новой и бу технике по хорошей цене. Если вдруг нужна прямо-таки настоящая фотостудия, то без проблем обеспечу светом, синхронизаторами, модификаторами и фонами (devianth)
+* Миниатюрный фрезерный станок (Степан Глушков, Алексей Галахов)
+* Миниатюрный токарный станок (Алексей Галахов)
+* Токарный станок (Павел Серков)
+* Фрезер с полем 1.5мх1.5м (Павел Серков)
