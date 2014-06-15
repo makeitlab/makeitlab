@@ -45,6 +45,9 @@ alt="Квадрокоптер КО1. Демпфер контроллера" widt
 href="http://www.youtube.com/watch?feature=player_embedded&v=dqVQoNwUAN4" 
 target="_blank"><img src="http://img.youtube.com/vi/dqVQoNwUAN4/0.jpg" 
 alt="Квадрокоптер КО1. Полевые испытания" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ite_YV2M0uE
+" target="_blank"><img src="http://img.youtube.com/vi/Ite_YV2M0uE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 **Фото**
 
@@ -106,10 +109,16 @@ alt="Орнитоптер с видеокамерой на борту" width="24
 
 Куратор: Степан Глушков
 
-Миниатютрный, дистанционно управляемый орнитоптер с видеокамерой на борту. Вес - 3гр.
+Миниатюрный, дистанционно управляемый орнитоптер с видеокамерой на борту. Вес - 3гр.
 
 Блог проекта:
 * http://seplus.blogspot.ru/
+
+Еще видео:
+<a title="Посмотреть видео"
+href="http://www.youtube.com/watch?feature=player_embedded&v=9IOj6KXq8KU" 
+target="_blank"><img src="http://img.youtube.com/vi/9IOj6KXq8KU/0.jpg" 
+alt="Орнитоптер с видеокамерой на борту" width="240" height="180" border="10" /></a>
 
 Статус: завершен
 
@@ -143,7 +152,7 @@ alt="Учебный робот-следопыт на основе Raspberry Pi" 
 Статус: завершен
 
 
-#### Учебный мобильный робот MR2
+#### Учебный мобильный робот MR1.1
 
 Колесный робот на базе Raspberry Pi/Arduino для открытых учебных курсов. На базе конструктора Multiplo.
 
@@ -182,7 +191,7 @@ alt="Гусеничный робот на базе TI MSP430" width="240" height
 Статус: завершен
 
 
-#### Шагающий робот QR1
+#### Шагающий робот MR2
 
 Конструкция робота напечатана на 3D-принтере. В основе - Arduino Uno/Leonardo. Создан для демонстрации возможностей 3D-печати и доступности робототехники.
 
@@ -199,8 +208,17 @@ href="http://www.youtube.com/watch?feature=player_embedded&v=-sFJlMypUXM"
 target="_blank"><img src="http://img.youtube.com/vi/-sFJlMypUXM/0.jpg" 
 alt="Четырехногий робот. Часть 2" width="240" height="180" border="10" /></a>
 
-Статус: завершен, принимаем заказы на изготовление
+Статус: завершен
 
+#### Шагающий робот MR2.1
+
+Четерехногий робот, специально доработанный для самостоятельной сборки.
+
+**Фото**
+
+<a href="https://picasaweb.google.com/lh/photo/icwW_wF57mCcbvm4gXrm2NMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-wbEIIQ70Fgk/U52w9zaPLaI/AAAAAAAAMV0/xS6__rbmDKw/s288/kit_mr2.jpg" height="162" width="288" /></a>
+
+Статус: готов к заказу в нашем магазине shop.makeitlab.ru
 
 #### Робот-художник Drawbot
 
@@ -296,7 +314,7 @@ alt="Шоколадный 3D-принтер" width="240" height="180" border="10
 Статус: проектирование
 
 
-#### Рельсотрон
+#### Рельсотрон (Railgun)
 
 Куратор: Павел Серков
 
