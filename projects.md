@@ -221,6 +221,17 @@ alt="Четырехногий робот. Часть 2" width="240" height="180"
 
 Статус: готов к заказу в нашем магазине shop.makeitlab.ru
 
+#### Шестиногий робот Hexy
+
+Шестиногий робот Hexy, изготовленный в хакспейсе по открытым чертежам. Ведется разработка независимой программной среды для управления роботом.
+
+**Фото**
+
+<a href="https://picasaweb.google.com/lh/photo/-7HnTPckjvcDC6eeZPGMttMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-Un_B8Cu96pA/U1GP8d8mEpI/AAAAAAAAFP8/6LFQOSat7LE/s288/%25D0%25A0%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%2520Hexy.%2520%25D0%25A1%25D0%25B1%25D0%25BE%25D1%2580%25D0%25BA%25D0%25B0.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/Ngizn92R4RCX7MY7n2ayg9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-X8_RvlMi64A/U1GQAMcw-8I/AAAAAAAAFQc/0Q7dfReKvxI/s288/%25D0%25A0%25D0%25BE%25D0%25B1%25D0%25BE%25D1%2582%2520%25D0%25B6%25D1%2580%25D0%25B5%25D1%2582%2520%25D0%25BC%25D0%25BE%25D0%25BD%25D0%25B8%25D1%2582%25D0%25BE%25D1%2580.jpg" height="162" width="288" /></a>
+
+Статус: кодирование поведения
+
 #### Робот-художник Drawbot
 
 Автор: Никита Hound
