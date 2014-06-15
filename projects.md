@@ -115,6 +115,7 @@ alt="Орнитоптер с видеокамерой на борту" width="24
 * http://seplus.blogspot.ru/
 
 ** Еще видео **
+
 <a title="Посмотреть видео"
 href="http://www.youtube.com/watch?feature=player_embedded&v=9IOj6KXq8KU" 
 target="_blank"><img src="http://img.youtube.com/vi/9IOj6KXq8KU/0.jpg" 
