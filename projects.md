@@ -217,7 +217,7 @@ alt="Четырехногий робот. Часть 2" width="240" height="180"
 
 **Фото**
 
-<a href="https://picasaweb.google.com/lh/photo/icwW_wF57mCcbvm4gXrm2NMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-wbEIIQ70Fgk/U52w9zaPLaI/AAAAAAAAMV0/xS6__rbmDKw/s288/kit_mr2.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/4b7X6xxl0w2Ue1WNlU7yINMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-b-wpsMZ3zV8/U52zHURXLWI/AAAAAAAAMWM/-CqhxVjWXuQ/s288/main_2048.jpg" height="162" width="288" /></a>
 
 Статус: готов к заказу в нашем магазине shop.makeitlab.ru
 
