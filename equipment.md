@@ -13,30 +13,30 @@
 Электронные компоненты
 
 **Готовые устройства**
-* Raspberry PI, 8шт (1 в игровом автомате, 1 для камеры) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_raspberrypi.jpg)
-* TI Launchpad MSP430, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_msp430_DB.jpg)
+* Raspberry PI, 8шт (1 в игровом автомате, 1 для камеры) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_raspberrypi.jpg)
+* TI Launchpad MSP430, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_msp430_DB.jpg)
 * TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stellaris_DB.jpg)
-* FPGA Papilio One 500K, 1шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_papilio_one_500_DB.jpg)
-* STM32 F3 Discovery, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stm32_F3_DB.jpg)
+* FPGA Papilio One 500K, 1шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_papilio_one_500_DB.jpg)
+* STM32 F3 Discovery, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_stm32_F3_DB.jpg)
 * USB-UART мост на cp2102, 3шт (+1 на руках)
-* USB-UART FT2232H, полностью разведенный [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FT2232H.jpg)
+* USB-UART FT2232H, полностью разведенный [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_FT2232H.jpg)
 * Радиопередатчик на nRF24, 14шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_radio_nrf24.jpg)
 * Лазеры 5mW с линзами, 3.3В, в корпусе, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_laser_5mw.jpg)
 * Лазеры 5mW с линзами, 5В, в корпусе, 100шт
 * Драйвер двигателей Pololu DRV8833 (10шт)(для курсов) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pololu_drv8833.jpg)
 * RFID читалка rc522, 1шт  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_rfid_rc522.jpg)
-* Логический анализатор, FPGA, 16 каналов [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_FPGA_logic.jpg)
+* Логический анализатор, FPGA, 16 каналов [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_FPGA_logic.jpg)
 * Светодиодная лента, белый [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_led_stripe.jpg)
 * Pinboard [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_pinboard.jpg)
 * Модуль SD карты [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sd_socket.jpg)
 
 **Arduino**
-* Arduino Uno, 5шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_uno.jpg)
-* Arduino Nano, v.3.0, 1шт (в пульте квадрокоптера, +1 на руках)
-* Arduino Leonardo, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_leonardo.jpg)
+* Arduino Uno, 5шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_arduino_uno.jpg)
+* Arduino Nano, v.3.0 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_arduino_nano.jpg)
+* Arduino Leonardo, 10шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_arduino_leonardo.jpg)
 * Arduino Shrimp/JustDuino, 9шт (не все распаяны)
-* Arduino XPort direct [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_xport.jpg)
-* Arduino XPort ethernet [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_arduino_eth.jpg)
+* Arduino XPort direct [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_arduino_xport.jpg)
+* Arduino XPort ethernet [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_arduino_eth.jpg)
 * Arduino Shield V5 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_comm_shieldV5.jpg)
 * Arduino Motor Shield V2 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_motor_shieldV2.jpg)
 
@@ -58,7 +58,7 @@
 * Дальномер оптический Sharp 30cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_30cm.jpg)
 * Дальномер оптический Sharp 150cm, 4шт (не распаяны) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_150cm.jpg)
 * CMOS камера ov7670 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_cam_ov7670.jpg)
-* Камера Raspberry Pi CSI, 5Mpx
+* Камера Raspberry Pi CSI, 5Mpx  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_raspberrpi_cam.jpg)
 
 **Микросхемы**
 * USB-UART мост cp2102, 5шт
