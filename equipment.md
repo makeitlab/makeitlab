@@ -15,7 +15,7 @@
 **Готовые устройства**
 * Raspberry PI, 8шт (1 в игровом автомате, 1 для камеры) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_raspberrypi.jpg)
 * TI Launchpad MSP430, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_msp430_DB.jpg)
-* TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_stellaris_DB.jpg)
+* TI Launchpad Stellaris LM4F120, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_stellaris_DB.jpg)
 * FPGA Papilio One 500K, 1шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_papilio_one_500_DB.jpg)
 * STM32 F3 Discovery, 2шт [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_stm32_F3_DB.jpg)
 * USB-UART мост на cp2102, 3шт (+1 на руках)
@@ -58,7 +58,7 @@
 * Дальномер оптический Sharp 30cm [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_30cm.jpg)
 * Дальномер оптический Sharp 150cm, 4шт (не распаяны) [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_sharp_150cm.jpg)
 * CMOS камера ov7670 [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/makeitlab_cam_ov7670.jpg)
-* Камера Raspberry Pi CSI, 5Mpx  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_raspberrpi_cam.jpg)
+* Камера Raspberry Pi CSI, 5Mpx  [картинка](https://raw.github.com/makeitlab/makeitlab/master/images/components/makeitlab_raspberrypi_cam.jpg)
 
 **Микросхемы**
 * USB-UART мост cp2102, 5шт
