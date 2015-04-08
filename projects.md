@@ -124,6 +124,70 @@ alt="Орнитоптер с видеокамерой на борту" width="24
 Статус: завершен
 
 
+#### Орнитоптер ОРНИ-4
+
+Куратор: Степан Глушков
+
+Орнитоптер с возможностью зависания в воздухе. Три прототипа.
+
+Блог проекта:
+* http://seplus.blogspot.ru/
+
+<a href="https://picasaweb.google.com/lh/photo/ZWb96KtWJG_4CvARWDsP71Qnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-qH4wgmxPqWw/VSTJQZp7bBI/AAAAAAAASa0/c5x8UOwm9Mc/s288/oEDjkbMQ9QA.jpg" height="192" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/p6LkhCya1XDgYhRs-Y-bJ1Qnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-LDWBMu7jocA/VSTJRGfIZCI/AAAAAAAASa0/sp8OatbvxRQ/s288/m8zu0iGKv2U.jpg" height="192" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/AutO_0NS2yng5KG64jGmW1Qnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-gOvPnTCFnGc/VSTJRhPEiBI/AAAAAAAASa0/yyoVzX_c2VU/s288/a1biMAYoGJo.jpg" height="192" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/QGHsSIzOITn3dj1CmL9eo1Qnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-U9VtekgpiSk/VSTJSTrwOaI/AAAAAAAASa0/udEDc7sUWpw/s288/NmB3gHy560s.jpg" height="192" width="288" /></a>
+
+Статус: в разработке
+
+
+#### Орнитоптер ОРНИ-5 "Мышь"
+
+Куратор: Степан Глушков
+
+Орнитоптер эмитирующий летучую мышь. Неудачная компоновка механизма, слабый двигатель, сильно смещён центр массы вперёд.
+
+Блог проекта:
+* http://seplus.blogspot.ru/
+
+<a href="https://picasaweb.google.com/lh/photo/hw_53a3zwDEz5piMQEl2wlQnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-IcGGENTJC54/VSTJTDwMZkI/AAAAAAAASa0/ppZ4S1hjNxw/s288/p9EsnnNJ99M.jpg" height="192" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/JWAmePkhKhR4sxwXb8GoRFQnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-37B2O7KlbZw/VSTJTszK9vI/AAAAAAAASa0/y7JO7WySOI0/s288/qeaZgrFZKU8.jpg" height="192" width="288" /></a>
+
+Статус: заморожен
+
+
+#### Орнитоптер ОРНИ-6 "Шестикрыл"
+
+Куратор: Степан Глушков
+
+Шестикрылый орнитоптер с независимыми рядами крыльев. Детали конструкции напечатаны на 3D принтере.
+Проходит полётные испытания, нуждается в наращивании мощности электродвигателей.
+
+Блог проекта:
+* http://seplus.blogspot.ru/
+
+<a href="https://picasaweb.google.com/lh/photo/GLNEVGE73wqyfF8pd1ERlFQnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-3np2zMlU8xI/VSTJUcQEHmI/AAAAAAAASa0/jLgFUlSEV9Q/s288/m0pPbBNZOeY.jpg" height="192" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/rck7bqpliOMIs6Ep7sgnBlQnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-Ygf-EN6JuI4/VSTJU8K4qcI/AAAAAAAASa0/zZRmliZS54w/s288/skkqG3Ueja4.jpg" height="192" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/zPUfVfwitJyhzvKK2HGOY1Qnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-f03-1AtvxyI/VSTJV0lBR3I/AAAAAAAASa0/qGkW4Pj-L8Q/s288/ddDdSft7ChM.jpg" height="192" width="288" /></a>
+
+Статус: в разработке
+
+
+#### Микроминиатюрный самолет
+
+Куратор: Степан Глушков
+
+Шестикрылый орнитоптер с независимыми рядами крыльев. Детали конструкции напечатаны на 3D принтере.
+Проходит полётные испытания, нуждается в наращивании мощности электродвигателей.
+
+Блог проекта:
+* http://seplus.blogspot.ru/
+
+<a href="https://picasaweb.google.com/lh/photo/mITDlBvlV92c-XVE9T0tOVQnh7gX1-1tD2cLr-ypOhk?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-tct6xK_7qM4/VSTJWaDn-8I/AAAAAAAASa0/OxghunLVZHQ/s288/KWUyybC21xo.jpg" height="192" width="288" /></a>
+
+Статус: в разработке
+
+
 Роботы
 ------
 
@@ -155,9 +219,11 @@ alt="Учебный робот-следопыт на основе Raspberry Pi" 
 
 #### Учебный мобильный робот MR1.1
 
-Колесный робот на базе Raspberry Pi/Arduino для открытых учебных курсов. На базе конструктора Multiplo.
+Колесный робот на базе Raspberry Pi/Arduino для открытых учебных курсов. В концепции конструктора Multiplo.
 
-Статус: проектирование
+<a href="https://picasaweb.google.com/lh/photo/qDbBDqCKk7aZ4N-ftsGeLdMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-LmkSnGVbbAc/VCsMAs5kWLI/AAAAAAAAO54/OHjkj9UBNdE/s288/IMG_20140819_225358.jpg" height="162" width="288" /></a>
+
+Статус: доработка
 
 
 #### Учебный манипулятор RH2
@@ -220,6 +286,7 @@ alt="Четырехногий робот. Часть 2" width="240" height="180"
 <a href="https://picasaweb.google.com/lh/photo/4b7X6xxl0w2Ue1WNlU7yINMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-b-wpsMZ3zV8/U52zHURXLWI/AAAAAAAAMWM/-CqhxVjWXuQ/s288/main_2048.jpg" height="162" width="288" /></a>
 
 Статус: готов к заказу в нашем магазине shop.makeitlab.ru
+
 
 #### Шестиногий робот Hexy
 
@@ -313,7 +380,20 @@ alt="Шоколадный 3D-принтер" width="240" height="180" border="10
 <a title="Открыть фото" href="http://flic.kr/p/jwwPrz"><img src="http://farm6.staticflickr.com/5517/12159929655_13c3c7ab99.jpg" width="240" border="10" /></a>
 <a title="Открыть фото" href="http://flic.kr/p/jwyVGA"><img src="http://farm4.staticflickr.com/3696/12160340934_b884c6234e.jpg" width="240" border="10" /></a>
 
-Статус: доведение до ума
+Статус: заморожен
+
+
+#### Экструзионный 3D-принтер для учебных заведений
+
+Куратор: Семён Паркышев
+
+Дешевый экструзионный 3D-принтер для учебных заведений. Сменные головки. Облегченная каретка.
+
+<a href="https://picasaweb.google.com/lh/photo/K3ZzSOqn5zGonO8O0kNENib168EsLD4DG8qy2osDW9o?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-j7XOg72LTZM/VOZb_aP-2AI/AAAAAAAASb8/zPARwCyI-2I/s288/DSC_0006.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/iMEmXTP93jRnZ9y_cDZgrSb168EsLD4DG8qy2osDW9o?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-gBrIfq_OFds/VOZcAOxz-NI/AAAAAAAASb8/W0pFhvL6eaw/s288/DSC_0008.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/3m20Q4HfvirtrDmqWfzhJyb168EsLD4DG8qy2osDW9o?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-kRuU_TsYFtU/VSTTmAZIaRI/AAAAAAAASb8/4mgijqA-tEw/s288/DSC00144.JPG" height="216" width="288" /></a>
+
+Статус: принимаются заказы
 
 
 Высокое напряжение
@@ -350,6 +430,17 @@ alt="Шоколадный 3D-принтер" width="240" height="180" border="10
 * http://www.flickr.com/photos/97915275@N02/9882213555/in/set-72157634292417738
 * http://www.flickr.com/photos/97915275@N02/9882321383/in/set-72157634292417738
 * http://www.flickr.com/photos/97915275@N02/10022598104/in/set-72157634292417738
+
+Статус: завершен
+
+
+Интерактивная песочница
+-----------------------
+
+Куратор: Олег Евсегнеев
+
+<a href="https://picasaweb.google.com/lh/photo/OMNbpTEuN8M03jF9ILURszU7dUlNLyWm0Zzu_zlbb1o?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-b0-V4QXGJvE/VCsIaMH6gVI/AAAAAAAAO48/WNcVrUi1tic/s144/IMG_20140930_234157.jpg" height="81" width="144" /></a>
+<a href="https://picasaweb.google.com/lh/photo/7KP_v0g-Y8yganj0Tb39INMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-KOfuMQtDmC4/VFqXR1Ree-I/AAAAAAAAPZM/vh0e7YCbh84/s288/DSC_7710.JPG" height="191" width="288" /></a>
 
 Статус: завершен
 
