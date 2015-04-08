@@ -57,6 +57,23 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Статус: в разработке, изменение конструкции
 
+#### Квадрокоптер DV1
+
+Куратор: Дмитрий Васильев (https://vk.com/id49890246)
+
+Управляемый квадрокоптер на базе MultiWii 2.5.
+
+Блог проекта:
+* http://www.poprobot.ru/proekty/kvadrokopter
+
+<a href="https://picasaweb.google.com/lh/photo/_cKHGATNIG68mbeMiEa9VNMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-Bfzg8reHV1I/VSTbAfHsC3I/AAAAAAAAScQ/ZD6fYXfVcNM/s288/IMG_20141213_021800.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/4GS7b61gpuW5pQ9I-rF8B9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-G8uFFZo-ink/VSTbBOZ2KNI/AAAAAAAAScY/uOvmxbNZUjA/s288/IMG_20141213_021823.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/ANglneMa26SjTzon7Jd-ztMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-i1IMEDc5MSo/VSTbCGUV62I/AAAAAAAAScg/epB9t_MtzM4/s288/IMG_20141213_021828.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/gXR-MPVoqiuPBoKDTrtLUtMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-nmE0qjGfYE0/VSTbDOg4qXI/AAAAAAAASco/zQ_QGLE2JTI/s288/IMG_20141213_021837.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/2UDoiZobrOPnotu0HyExYtMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-XEo8Ru8yr28/VSTbD1Y9ZdI/AAAAAAAAScw/T-Lu_Nkw9-Y/s288/IMG_20141213_021853.jpg" height="162" width="288" /></a>
+
+Статус: в разработке
+
 
 #### Орнитоптер ОРНИ-1
 
@@ -222,6 +239,7 @@ alt="Учебный робот-следопыт на основе Raspberry Pi" 
 Колесный робот на базе Raspberry Pi/Arduino для открытых учебных курсов. В концепции конструктора Multiplo.
 
 <a href="https://picasaweb.google.com/lh/photo/qDbBDqCKk7aZ4N-ftsGeLdMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-LmkSnGVbbAc/VCsMAs5kWLI/AAAAAAAAO54/OHjkj9UBNdE/s288/IMG_20140819_225358.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/Fz4f49mQ7KiBiuCcunNxzdMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-v-lz5aNPEII/VNcuspM2FEI/AAAAAAAARfI/c0T1W4CzBlw/s288/ZntEbwyNm98.jpg" height="192" width="288" /></a>
 
 Статус: доработка
 
