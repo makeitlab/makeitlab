@@ -63,9 +63,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Управляемый квадрокоптер на базе MultiWii 2.5.
 
-Блог проекта:
-* http://www.poprobot.ru/proekty/kvadrokopter
-
 <a href="https://picasaweb.google.com/lh/photo/_cKHGATNIG68mbeMiEa9VNMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-Bfzg8reHV1I/VSTbAfHsC3I/AAAAAAAAScQ/ZD6fYXfVcNM/s288/IMG_20141213_021800.jpg" height="162" width="288" /></a>
 <a href="https://picasaweb.google.com/lh/photo/4GS7b61gpuW5pQ9I-rF8B9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh3.googleusercontent.com/-G8uFFZo-ink/VSTbBOZ2KNI/AAAAAAAAScY/uOvmxbNZUjA/s288/IMG_20141213_021823.jpg" height="162" width="288" /></a>
 <a href="https://picasaweb.google.com/lh/photo/ANglneMa26SjTzon7Jd-ztMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-i1IMEDc5MSo/VSTbCGUV62I/AAAAAAAAScg/epB9t_MtzM4/s288/IMG_20141213_021828.jpg" height="162" width="288" /></a>
