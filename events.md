@@ -107,3 +107,19 @@
 
 Место проведения: Уральский Филиал ГЦСИ, ул. Добролюбова, 19а
 
+
+## Конференция IT-профессионалов DUMP-2014 14.04.2014
+
+Место проведения: Урал-экспо, Екатеринбург
+
+Печатали сувениры на стенде компании Naumen, сканировали победителей конкурсов с последующей печатью статуэток!
+
+<a href="https://picasaweb.google.com/lh/photo/ae_R_25AWd0odVdMTLlt3dMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh4.googleusercontent.com/-FihzhWdDBlM/U1GQLdjx6hI/AAAAAAAAFSc/NnDa7X5f77g/s288/%25D0%259D%25D0%25B0%25D1%2588%2520%25D1%2581%25D1%2582%25D0%25B5%25D0%25BD%25D0%25B4%2520%25D0%25BD%25D0%25B0%2520dump%25202014.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/GyuWusrXrrd323VZjp0Uw9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-m-pExOagvRg/U1GQLWsHk4I/AAAAAAAAFSU/CM6Fe8f7IBE/s288/%25D0%259F%25D0%25B5%25D1%2587%25D0%25B0%25D1%2582%25D0%25B0%25D0%25B5%25D0%25BC%2520%25D1%2580%25D0%25B0%25D0%25B7%25D0%25B4%25D0%25B0%25D1%2582%25D0%25BA%25D1%2583%2520%25D0%25BD%25D0%25B0%2520dump%25202014.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/nLzqDbfdRH8JKKR1rV_fp9MTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh6.googleusercontent.com/-TsnfPKpITUs/U6LaLW2Gi0I/AAAAAAAANHk/CqIne6vTNAU/s288/IMG_20140618_141041.jpg" height="162" width="288" /></a>
+<a href="https://picasaweb.google.com/lh/photo/COTDMNdqr1umIsxjWMWKtNMTjNZETYmyPJy0liipFm0?feat=embedwebsite"><img src="https://lh5.googleusercontent.com/-5_P3Su470SU/U7FKtFjTwWI/AAAAAAAANNQ/y8GdzfrnWQY/s288/IMG_20140601_211837.jpg" height="162" width="288" /></a>
+
+Все фото: https://plus.google.com/photos/113775582423641649775/albums/6003732480281635905
+
+Приглашал на выставку наш робот:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p-iiNxj9cNg?rel=0" frameborder="0" allowfullscreen></iframe>
